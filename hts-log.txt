@@ -1,0 +1,243 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Dec 2020 19:29:01 at http://besa.automatic.agency/snapp-market/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://besa.automatic.agency/snapp-market/ -O1 "F:\snap market" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:40:30	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/wp-json/ (from besa.automatic.agency/snapp-market/)
+19:40:30	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/orders/ (from besa.automatic.agency/snapp-market/)
+19:40:30	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/downloads/ (from besa.automatic.agency/snapp-market/)
+19:40:30	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/edit-address/ (from besa.automatic.agency/snapp-market/)
+19:40:30	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/edit-account/ (from besa.automatic.agency/snapp-market/)
+19:40:30	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/lost-password/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product-category/بدون-دسته‌بندی/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product-category/بیسکویت/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product-category/خواربار/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product-category/دستمال-و-شوینده/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product-category/دسر/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product-category/کنسرو/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product-category/لبنیات/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product-category/مواد-پروتئینی/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product-category/نان-و-شیرینی/ (from besa.automatic.agency/snapp-market/)
+19:42:12	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/بیسکویت-شکلاتی-کوپا-۶۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:22	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/بیسکویت-موزی-آوند-۶۳۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:26	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/بیسکویت-کنجدی-گرجی-۷۲۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:29	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/بیسکویت-نارگیلی-شیرین-عسل-۱۲۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:33	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/بیسکویت-دایجستا-شیرین-عسل-۱۸۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:36	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/آرد-سفید-رشد-۴۵۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:39	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/ذرت-خشکپاک-۳۰۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:43	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/روغن-ذرت-تصفیه-شده-پیک-۱-۸-لیتری/ (from besa.automatic.agency/snapp-market/)
+19:42:46	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/ماست-سون-همزده-کاله-۹۰۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:50	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/ماست-کم‌چرب-سبو-هراز-۲-کیلوگرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:53	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/پنیر-ورقه‌ای-گودا-کاله-۱۸۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:42:57	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/شیر-کاکائو-کاله-۲۰۰-میلی-لیتری/ (from besa.automatic.agency/snapp-market/)
+19:43:01	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/پودر-ژله-تمشک-دراژه-۱۰۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:43:05	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/product/پودر-ژله-با-طعم-تمشک-فرمند-۱۰۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:43:10	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/کروتان-آمون-۲۰۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:43:14	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/نان-سوخاری-آمون-۲۷۵-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:43:18	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/سوپ-سبزیجات-الیت-۶۵-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:43:22	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/خورش-قیمه-سیب-زمینی-هانی-۲۸۵-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:43:27	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/لوله-بازکن-صاف-۱-۲۵-کیلوگرمی/ (from besa.automatic.agency/snapp-market/)
+19:43:31	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/حشره-کش-چند-منظوره-اتک-۵۰۰-میلی-لیتری/ (from besa.automatic.agency/snapp-market/)
+19:43:35	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/مایع-دستشویی-کرمی-زرد-اوه-۲-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:43:40	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/گوشت-چرخ-کرده-مخلوط-پویا-۸۰۰-گرمی/ (from besa.automatic.agency/snapp-market/)
+19:43:44	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/تخم-مرغ-بهدین-۹-عددی/ (from besa.automatic.agency/snapp-market/)
+19:43:48	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/product/ارده-و-شیره-خرما-عقاب-مقدار-1050-گرم/ (from besa.automatic.agency/snapp-market/)
+19:43:58	Warning: 	Found for besa.automatic.agency/snapp-market/dashboard/
+19:43:58	Warning: 	File has moved from besa.automatic.agency/snapp-market/dashboard/ to http://besa.automatic.agency/snapp-market/my-account/
+19:44:12	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.0.13)
+19:44:12	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.0.13)
+19:44:14	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/wp-content/plugins/yith-woocommerce-wishlist/assets/fonts/fontawesome-webfont.svg?v=4.7.0 (from besa.automatic.agency/snapp-market/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.css?ver=4.7.0)
+19:44:14	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg (from besa.automatic.agency/snapp-market/wp-content/plugins/woocommerce/assets/css/woocommerce-rtl.css?ver=4.7.0)
+19:44:15	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/wp-content/plugins/dokan-lite/assets/vendors/fonts/fontawesome-webfont.ttf?v=4.7.0 (from besa.automatic.agency/snapp-market/wp-content/plugins/dokan-lite/assets/vendors/font-awesome/font-awesome.min.css?ver=3.0.14)
+19:44:15	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.9.1 (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1)
+19:44:16	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/css/fonts/slick/slick.eot? (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/template.rtl.css?ver=1.0)
+19:44:16	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0 (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/treeview-red-line.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/treeview-red.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/treeview-black-line.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/treeview-black.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/treeview-gray-line.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/treeview-gray.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/treeview-famfamfam-line.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/treeview-famfamfam.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/folder.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/folder-closed.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/images/file.gif (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/jquery.treeview.css?ver=1.0.0)
+19:44:36	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/Trident/ (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.0.13)
+19:44:36	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=7
+19:44:36	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=7 to http://besa.automatic.agency/snapp-market/wishlist/
+19:45:46	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=179
+19:45:46	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=179 to http://besa.automatic.agency/snapp-market/recently-viewed/
+19:45:56	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1992
+19:45:56	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1992 to http://besa.automatic.agency/snapp-market/my-account/
+19:45:57	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/?page_id=3 (from besa.automatic.agency/snapp-market/my-account/)
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=6512bd43d9caa6e02c990b0a82652dca&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=6512bd43d9caa6e02c990b0a82652dca&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=9bf31c7ff062936a96d3c8bd1f8f2ff3&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=9bf31c7ff062936a96d3c8bd1f8f2ff3&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=6f4922f45568161a8cdf4ad2299f6d23&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=6f4922f45568161a8cdf4ad2299f6d23&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=98f13708210194c475687be6106a3b84&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=98f13708210194c475687be6106a3b84&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=b6d767d2f8ed5d21a44b0e5886680cb9&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=b6d767d2f8ed5d21a44b0e5886680cb9&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=8e296a067a37563370ded05f5a3bf3ec&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=8e296a067a37563370ded05f5a3bf3ec&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=02e74f10e0327ad868d138f2b4fdd6f0&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=02e74f10e0327ad868d138f2b4fdd6f0&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=6364d3f0f495b6ab9dcf8d3b5c6e0b01&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=6364d3f0f495b6ab9dcf8d3b5c6e0b01&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Error: 	"Error when decompressing" (-1) at link besa.automatic.agency/snapp-market/برگه-نمونه/ (from besa.automatic.agency/snapp-market/?add_to_wishlist=32)
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=e369853df766fa44e1ed0ff613f563bd&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=e369853df766fa44e1ed0ff613f563bd&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=19ca14e7ea6328a42e0eb13d585e4c22&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=19ca14e7ea6328a42e0eb13d585e4c22&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=a5771bce93e200c36f7cd9dfd0e5deaa&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=a5771bce93e200c36f7cd9dfd0e5deaa&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=d645920e395fedad7bbbed0eca3fe2e0&_wpnonce=624e41dfbe
+19:46:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=d645920e395fedad7bbbed0eca3fe2e0&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:06	Error: 	Unable to save file F:/snap market/besa.automatic.agency/snapp-market/product/پودر-ژله-با-طعم-تمشک-فرمند-۱۰۰-گرمی/feed/index.html: No such file or directory
+19:46:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 714 got 0): besa.automatic.agency/snapp-market/product/پودر-ژله-با-طعم-تمشک-فرمند-۱۰۰-گرمی/feed/
+19:46:16	Warning: 	Retry after error -4 (No data (connection closed)) at link besa.automatic.agency/snapp-market/wp-content/uploads/2020/06/hph-20590-100x100.jpg (from besa.automatic.agency/snapp-market/?add-to-cart=43)
+19:46:20	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=17e62166fc8586dfa4d1bc0e1742c08b&_wpnonce=624e41dfbe
+19:46:20	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=17e62166fc8586dfa4d1bc0e1742c08b&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=6c8349cc7260ae62e3b1396831a8398f&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=6c8349cc7260ae62e3b1396831a8398f&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=67c6a1e7ce56d3d6fa748ab6d9af3fd7&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=67c6a1e7ce56d3d6fa748ab6d9af3fd7&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=2838023a778dfaecdc212708f721b788&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=2838023a778dfaecdc212708f721b788&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=d82c8d1619ad8176d665453cfb2e55f0&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=d82c8d1619ad8176d665453cfb2e55f0&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=72b32a1f754ba1c09b3695e0cb6cde7f&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=72b32a1f754ba1c09b3695e0cb6cde7f&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=093f65e080a295f8076b1c5722a46aa2&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=093f65e080a295f8076b1c5722a46aa2&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=44f683a84163b3523afe57c2e008bc8c&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=44f683a84163b3523afe57c2e008bc8c&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=ea5d2f1c4608232e07d3aa3d998e5135&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=ea5d2f1c4608232e07d3aa3d998e5135&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=735b90b4568125ed6c3f678819b6e058&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=735b90b4568125ed6c3f678819b6e058&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=26657d5ff9020d2abefe558796b99584&_wpnonce=624e41dfbe
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=26657d5ff9020d2abefe558796b99584&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/?removed_item=1
+19:46:25	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1979
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1979 to http://besa.automatic.agency/snapp-market/aboutus/
+19:46:25	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1985
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1985 to http://besa.automatic.agency/snapp-market/faqs/
+19:46:25	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1983
+19:46:25	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1983 to http://besa.automatic.agency/snapp-market/privacy/
+19:46:25	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/youtu.be/ (from besa.automatic.agency/snapp-market/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6)
+19:46:25	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/popper.js (from besa.automatic.agency/snapp-market/wp-content/themes/besa/js/bootstrap.min.js?ver=4.0.0)
+19:46:25	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/Edge/ (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+19:46:25	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/Gecko/ (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+19:46:25	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/Firefox/ (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+19:46:25	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/Version/ (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+19:46:25	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/version/ (from besa.automatic.agency/snapp-market/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+19:47:53	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/1398/ (from besa.automatic.agency/snapp-market/2019/10/)
+19:48:04	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?remove_item=c9f0f895fb98ab9159f51fd0297e236d&_wpnonce=624e41dfbe
+19:48:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?remove_item=c9f0f895fb98ab9159f51fd0297e236d&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/shop/?removed_item=1
+19:48:12	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/
+19:48:12	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/ to http://besa.automatic.agency/snapp-market/shop/
+19:48:12	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1990
+19:48:12	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1990 to http://besa.automatic.agency/snapp-market/cart/
+19:48:12	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1991
+19:48:12	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1991 to http://besa.automatic.agency/snapp-market/checkout/
+19:48:14	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 714 expected)) at link besa.automatic.agency/snapp-market/product/پودر-ژله-با-طعم-تمشک-فرمند-۱۰۰-گرمی/feed/ (from besa.automatic.agency/snapp-market/product/پودر-ژله-با-طعم-تمشک-فرمند-۱۰۰-گرمی/)
+19:48:16	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=43
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=43 to http://besa.automatic.agency/snapp-market/product/%d9%be%d9%88%d8%af%d8%b1-%da%98%d9%84%d9%87-%d8%a8%d8%a7-%d8%b7%d8%b9%d9%85-%d8%aa%d9%85%d8%b4%da%a9-%d9%81%d8%b1%d9%85%d9%86%d8%af-%db%b1%db%b0%db%b0-%da%af%d8%b1%d9%85%db%8c/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=6512bd43d9caa6e02c990b0a82652dca&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=6512bd43d9caa6e02c990b0a82652dca&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=9bf31c7ff062936a96d3c8bd1f8f2ff3&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=9bf31c7ff062936a96d3c8bd1f8f2ff3&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=6f4922f45568161a8cdf4ad2299f6d23&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=6f4922f45568161a8cdf4ad2299f6d23&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=98f13708210194c475687be6106a3b84&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=98f13708210194c475687be6106a3b84&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=b6d767d2f8ed5d21a44b0e5886680cb9&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=b6d767d2f8ed5d21a44b0e5886680cb9&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=02e74f10e0327ad868d138f2b4fdd6f0&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=02e74f10e0327ad868d138f2b4fdd6f0&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=6364d3f0f495b6ab9dcf8d3b5c6e0b01&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=6364d3f0f495b6ab9dcf8d3b5c6e0b01&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=19ca14e7ea6328a42e0eb13d585e4c22&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=19ca14e7ea6328a42e0eb13d585e4c22&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=a5771bce93e200c36f7cd9dfd0e5deaa&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=a5771bce93e200c36f7cd9dfd0e5deaa&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:16	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=d645920e395fedad7bbbed0eca3fe2e0&_wpnonce=624e41dfbe
+19:48:16	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=d645920e395fedad7bbbed0eca3fe2e0&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/product/%D9%BE%D9%88%D8%AF%D8%B1-%DA%98%D9%84%D9%87-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D8%AA%D9%85%D8%B4%DA%A9-%D9%81%D8%B1%D9%85%D9%86%D8%AF-%DB%B1%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85%DB%8C/
+19:48:42	Error: 	"Bad Request" (400) at link besa.automatic.agency/snapp-market/wp-admin/admin-ajax.php (from besa.automatic.agency/snapp-market/product/پودر-ژله-با-طعم-تمشک-فرمند-۱۰۰-گرمی/)
+19:49:01	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1977
+19:49:01	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1977 to http://besa.automatic.agency/snapp-market/2019/10/31/sail-your-colours-to-the-mast-2/
+19:49:01	Error: 	"Method Not Allowed" (405) at link besa.automatic.agency/snapp-market/xmlrpc.php (from besa.automatic.agency/snapp-market/2019/10/31/sail-your-colours-to-the-mast-2/)
+19:49:02	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1239
+19:49:02	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1239 to http://besa.automatic.agency/snapp-market/2019/10/21/the-best-careers-for-introverts/
+19:49:02	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1237
+19:49:02	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1237 to http://besa.automatic.agency/snapp-market/2019/10/21/avoid-this-rookie-marketing-habit/
+19:49:02	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1229
+19:49:02	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1229 to http://besa.automatic.agency/snapp-market/2019/10/21/stop-making-these-8-grammar-mistakes/
+19:49:03	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=567
+19:49:03	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=567 to http://besa.automatic.agency/snapp-market/2019/10/09/swiss-watches-why-are-they-the-best/
+19:49:03	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1245
+19:49:03	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1245 to http://besa.automatic.agency/snapp-market/2019/10/21/7-tips-to-delight-your-audience/
+19:49:03	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1232
+19:49:03	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1232 to http://besa.automatic.agency/snapp-market/2019/10/21/go-from-zero-to-hero-in-no-time/
+19:49:03	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1251
+19:49:03	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1251 to http://besa.automatic.agency/snapp-market/2019/10/21/5-advices-no-one-will-give-you/
+19:49:04	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1252
+19:49:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1252 to http://besa.automatic.agency/snapp-market/2019/10/21/how-to-get-more-likes-on-facebook/
+19:49:04	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1974
+19:49:04	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1974 to http://besa.automatic.agency/snapp-market/2019/10/31/a-beginners-guide-to-fashion/
+19:49:05	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1247
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1247 to http://besa.automatic.agency/snapp-market/2019/10/21/mindblowing-facts-about-furniture/
+19:49:05	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=1235
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=1235 to http://besa.automatic.agency/snapp-market/2019/10/21/is-android-better-than-ios-5-reasons/
+19:49:05	Error: 	"Not Found" (404) at link besa.automatic.agency/snapp-market/wp-content/themes/besa/css/fonts/IRANSansWeb(FaNum (from besa.automatic.agency/snapp-market/wp-content/themes/besa/css/admin/custom-admin.css?ver=1.0.0)
+19:49:05	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=17e62166fc8586dfa4d1bc0e1742c08b&_wpnonce=624e41dfbe
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=17e62166fc8586dfa4d1bc0e1742c08b&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/shop/page/2/?add_to_wishlist=22
+19:49:05	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=6c8349cc7260ae62e3b1396831a8398f&_wpnonce=624e41dfbe
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=6c8349cc7260ae62e3b1396831a8398f&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/shop/page/2/?add_to_wishlist=22
+19:49:05	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=2838023a778dfaecdc212708f721b788&_wpnonce=624e41dfbe
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=2838023a778dfaecdc212708f721b788&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/shop/page/2/?add_to_wishlist=22
+19:49:05	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=d82c8d1619ad8176d665453cfb2e55f0&_wpnonce=624e41dfbe
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=d82c8d1619ad8176d665453cfb2e55f0&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/shop/page/2/?add_to_wishlist=22
+19:49:05	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=093f65e080a295f8076b1c5722a46aa2&_wpnonce=624e41dfbe
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=093f65e080a295f8076b1c5722a46aa2&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/shop/page/2/?add_to_wishlist=22
+19:49:05	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=ea5d2f1c4608232e07d3aa3d998e5135&_wpnonce=624e41dfbe
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=ea5d2f1c4608232e07d3aa3d998e5135&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/shop/page/2/?add_to_wishlist=22
+19:49:05	Warning: 	Found for besa.automatic.agency/snapp-market/cart/?undo_item=735b90b4568125ed6c3f678819b6e058&_wpnonce=624e41dfbe
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/cart/?undo_item=735b90b4568125ed6c3f678819b6e058&_wpnonce=624e41dfbe to http://besa.automatic.agency/snapp-market/shop/page/2/?add_to_wishlist=22
+19:49:05	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=22
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=22 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=22
+19:49:05	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=96
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=96 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=96
+19:49:05	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=20
+19:49:05	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=20 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=20
+19:49:06	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=8
+19:49:06	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=8 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=8
+19:49:06	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=15
+19:49:06	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=15 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=15
+19:49:06	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=11
+19:49:06	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=11 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=11
+19:49:06	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=18
+19:49:06	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=18 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=18
+19:49:06	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=36
+19:49:06	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=36 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=36
+19:49:06	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=43
+19:49:06	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=43 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=43
+19:49:06	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=40
+19:49:06	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=40 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=40
+19:49:06	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=67
+19:49:06	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=67 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=67
+19:49:06	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=59
+19:49:06	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?add_to_wishlist=59 to http://besa.automatic.agency/snapp-market/shop/?add_to_wishlist=59
+19:49:51	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/?p=93
+19:49:51	Warning: 	File has moved from besa.automatic.agency/snapp-market/?p=93 to http://besa.automatic.agency/snapp-market/store-listing/
+19:49:57	Warning: 	Moved Permanently for besa.automatic.agency/snapp-market/shop/page/1/?removed_item=1
+19:49:57	Warning: 	File has moved from besa.automatic.agency/snapp-market/shop/page/1/?removed_item=1 to http://besa.automatic.agency/snapp-market/shop/?removed_item=1
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 55 seconds : 850 links scanned, 697 files written (104390057 bytes overall) [30291809 bytes received at 24136 bytes/sec], 97901399 bytes transferred using HTTP compression in 497 files, ratio 17%, 9.0 requests per connection
+(64 errors, 168 warnings, 0 messages)
